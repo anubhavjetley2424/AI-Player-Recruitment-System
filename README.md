@@ -6,4 +6,7 @@ The goal is to produce a system (including UI), that will allow user interactivi
 
 # Future
 Data access is a main constraint in this project, being able to access physical tracking and sports science data around distance covered, sprint speed, acceleration, heart rate etc. would provide another exciting layer that I would love to explore. I am excited to see how quickly AI systems much more advanced than what I am trying to achieve can be implemented into real world professional player scouting, looking to uncover gems.
+
+
+
 ![image](https://github.com/user-attachments/assets/91a3b11c-4e28-4ee5-ba1d-1b5fcdaa3f14)
